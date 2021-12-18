@@ -1,0 +1,60 @@
+h1{
+	color: lightsteelblue;
+}
+
+ul{
+	text-align:center ;
+}
+
+img{
+	border-radius: 50%;
+	width: 200px;
+	height: 250px;
+}
+
+body{
+	margin: 0;
+	font-family: "courier";
+}
+
+.header{
+	text-align:center ;
+	background: beige;
+	padding: 30px;
+	margin: 5px;
+}
+
+.content{
+	margin: 50px;
+	text-align: center;
+	background-color: beige;
+	padding: 10px;
+
+}
+
+.card{
+	margin: 60px;
+	background-color: paleturquoise;
+	padding: 10px;
+
+}
+
+.contentee{
+	margin: 50px;
+	text-align: center;
+	background-color: beige;
+	padding: 10px;
+}
+
+.contente{
+	display: flex;
+	background-color: beige;	
+}
+
+.carde{
+		margin: 60px;
+	background-color: paleturquoise;
+	padding: 10px;
+	width: 50%;
+
+}
